@@ -1,0 +1,59 @@
+.home-container {
+  height: 350px;
+  color: white;
+
+  padding-left: 250px;
+  background-image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fscience-and-technology-background&psig=AOvVaw1AoiObRcgffgcA2wkl6mvI&ust=1719762537412000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDRgvSUgYcDFQAAAAAdAAAAABAE";
+}
+
+.home-content h1 {
+  padding: 10px;
+  padding-top: 100px;
+}
+
+.home-content h2 {
+  padding: 10px;
+  color: yellow;
+}
+
+.home-btn .btn-hire {
+  background-color: rgba(14, 255, 255, 0.792);
+  color: rgb(48, 44, 44);
+  font-weight: bolder;
+  width: 120px;
+  border-radius: 20px;
+  transition: trasnform 1s ease;
+}
+
+.home-btn .btn-hire:hover {
+  background-color: white;
+  color: rgb(10, 10, 10);
+  transform: scale(1.1, 1.1);
+}
+
+.home-btn .btn-resume {
+  background-color: orange;
+  color: white;
+  margin-left: 20px;
+  border-radius: 20px;
+  font-weight: bolder;
+}
+
+.home-btn .btn-resume:hover {
+  opacity: 80%;
+  transition: 1s;
+}
+
+@media (max-width: 1350px) {
+  .home-container {
+    padding: 0;
+    margin: 0;
+    margin-top: 50px;
+  }
+  .home-container h2 {
+    font-size: 24px;
+  }
+  .home-container h1 {
+    font-size: 24px;
+  }
+}

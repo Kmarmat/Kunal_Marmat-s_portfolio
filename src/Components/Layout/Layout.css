@@ -1,0 +1,36 @@
+.Sidebar-section {
+  display: flex;
+  overflow-x: hidden;
+  width: 100%;
+  background-image: url("https://media.istockphoto.com/id/1001279256/vector/technology-network-background.jpg?s=612x612&w=0&k=20&c=paF8I7sCkHbt2jHwRI1cpxUz2pX1F26SKl0XeugJEno=");
+}
+
+.sidebar {
+  height: 100vh;
+  background-color: #1e1e2c;
+  backdrop-filter: blur(50px);
+  width: 90px;
+  position: fixed;
+}
+
+.sidebar-toggle {
+  width: 300px;
+}
+
+.sidebar-toggle-icons {
+  display: flex;
+  align-items: right;
+  justify-content: right;
+  cursor: pointer;
+}
+
+.sidebar-toggle-icons p svg {
+  color: white;
+  margin-top: 5px;
+}
+
+@media (max-width: 1350px) {
+  .sidebar {
+    display: none;
+  }
+}
