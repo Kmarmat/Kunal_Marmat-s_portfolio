@@ -21,7 +21,13 @@ const Projects = () => {
 
         <div className="para" data-aos="zoom-in-left">
           <h3 className="mt-5 pb-3 text-justify">
-            1. Full Stack Online Examination System :
+            1. Ecommerce Scrape Website (Product Explorer) :
+          </h3>
+          <p className="mt-1 pb-1 text-justify">
+           The E-Commerce scrape web project in Next.js involves creating a web application that extracts product data from various Ecommerce websites by its “url” and displays it in a user-friendly format by using concept of web-scraping and give the details of the searched product like max ,min, avg price of the product and also track the searched product by gmail.
+          </p>
+          <h3 className="mt-5 pb-3 text-justify">
+            2. Full Stack Online Examination System :
           </h3>
           <p className="mt-1 pb-1 text-justify">
             Developed a comprehensive Online Examination System as part of a
@@ -34,7 +40,7 @@ const Projects = () => {
             platform for conducting examinations.
           </p>
           <h3 className="mt-5 pb-3 text-justify">
-            2. Py game Visual Graphics Generation :
+            3. Py game Visual Graphics Generation :
           </h3>
           <p className="mt-1 pb-1 text-justify">
             Implemented a visual graphics generation project using Pygame with
@@ -47,7 +53,7 @@ const Projects = () => {
             graphical applications.
           </p>
           <h3 className="mt-5 pb-3 text-justify">
-            3. Time Management Application :
+            4. Time Management Application :
           </h3>
           <p className="mt-1 pb-1 text-justify">
             Developed a comprehensive Time Management application using Java and
@@ -59,7 +65,7 @@ const Projects = () => {
             capabilities.
           </p>
           <h3 className="mt-5 pb-3 text-justify">
-            4. Alma Website Development :
+            5. Alma Website Development :
           </h3>
           <p className="mt-1 pb-1 text-justify">
             Designed and developed a responsive website for a new startup using
@@ -69,7 +75,7 @@ const Projects = () => {
             functionalities to enhance user engagement and optimize performance.
           </p>
           <h3 className="mt-5 pb-3 text-justify">
-            5.Working on college academic android Project "Fusion" :
+            6. Working on college academic android Project "Fusion" :
           </h3>
           <p className="mt-1 pb-1 text-justify">
             Currently involved in the development of "Fusion," an Android
@@ -80,7 +86,14 @@ const Projects = () => {
             Android development, problem-solving, and teamwork.
           </p>
           <h3 className="mt-5 pb-3 text-justify">
-            6. Machine Learning Project: Cutting Tool Remaining Useful Life
+            7. Import and Export Trade Analysis Dashboard ( Data
+            Analytics ) :
+          </h3>
+          <p className="mt-1 pb-5 text-justify">
+            Designed an intuitive dashboard to track and analyze India's trade dynamics, focusing on import and export volumes, trade balances, and key trading partners. The dashboard offers insights into commodity-wise trade data, trends over time, and the impact of global economic factors. Users can explore region-specific trade flows, assess trade deficits or surpluses, and identify emerging markets, aiding in policy formulation and business strategy.
+          </p>
+          <h3 className="mt-5 pb-3 text-justify">
+            8. Machine Learning Project: Cutting Tool Remaining Useful Life
             (RUL) Prediction :
           </h3>
           <p className="mt-1 pb-1 text-justify">
@@ -94,16 +107,6 @@ const Projects = () => {
             and compared model performances to optimize predictive accuracy and
             reliability. Developed insights into tool maintenance scheduling and
             operational efficiency through data-driven approaches.
-          </p>
-          <h3 className="mt-5 pb-3 text-justify">
-            7. Rohit Sharama Career Statistics Analysis Dash Board ( Data
-            Analytics ) :
-          </h3>
-          <p className="mt-1 pb-5 text-justify">
-            Making a user friendly data analysis dashboard based on rohit sharma
-            career statistics of Test , ODI and T20I Cricket format and year
-            wise innings with help of Google sheets ,Excel, Power BI and data
-            analytics concept .
           </p>
         </div>
 
