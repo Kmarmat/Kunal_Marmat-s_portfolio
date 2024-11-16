@@ -184,7 +184,7 @@ const Projects = () => {
                   Data Analyst dashboard
                 </span>
                 <img
-                  src="https://s3-alpha.figma.com/hub/file/5078515398/a52473a4-ef26-4abc-9bc5-6b6630184b25-cover.png"
+                  src="https://www.kyubit.com/Images/Analytical-Dashboard/Analytical-Dashboard-3.webp"
                   alt="project1"
                 />
               </div>
