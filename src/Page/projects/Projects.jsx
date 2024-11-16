@@ -163,11 +163,11 @@ const Projects = () => {
               </div>
               <div className="card-body text-center">
                 <div className="ad-title m-auto">
-                  <h5>"Alma" Website</h5>
+                  <h5>Ecommerce Web Scroller</h5>
                 </div>
                 <a
                   className="ad-btn"
-                  href="https://github.com/Kmarmat/Newalmaweb.git"
+                  href="https://aspirenex-ecommerce-scrape-web.vercel.app"
                 >
                   View
                 </a>
