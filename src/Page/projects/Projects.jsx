@@ -149,9 +149,9 @@ const Projects = () => {
           <div className="col-md-4" data-aos="flip-left">
             <div className="card rounded">
               <div className="card-image">
-                <span className="card-notify-badge">Website development</span>
+                <span className="card-notify-badge">Ecommerce Website.</span>
                 <img
-                  src="https://media.licdn.com/dms/image/D4D12AQGXY8rVDHU2wQ/article-cover_image-shrink_720_1280/0/1683186693180?e=2147483647&v=beta&t=scw7bN0fCM3g4FKEpHMdk_TWNxY1jbv2pgHudGQ0Reo"
+                  src="https://miro.medium.com/v2/resize:fit:1200/1*sQlJiAlcD92zDEZQPQm90g.png"
                   alt="project2"
                 />
               </div>
@@ -163,7 +163,7 @@ const Projects = () => {
               </div>
               <div className="card-body text-center">
                 <div className="ad-title m-auto">
-                  <h5>Ecommerce Web Scroller</h5>
+                  <h5>Product Explorer</h5>
                 </div>
                 <a
                   className="ad-btn"
