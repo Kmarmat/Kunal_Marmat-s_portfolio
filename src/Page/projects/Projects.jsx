@@ -192,10 +192,11 @@ const Projects = () => {
               </div>
               <div className="card-body text-center">
                 <div className="ad-title m-auto">
-                  <h5>Rohit Sharama Dashboard</h5>
+                  <h5>Import and Export trade Analysis Dashboard</h5>
                 </div>
 
-                <a className="ad-btn" href={Project3}>
+                <a className="ad-btn" 
+                  href="https://github.com/marmatkunal-2909/Import-and-Export-Trade-Analysis-Dashboard">
                   View
                 </a>
               </div>
