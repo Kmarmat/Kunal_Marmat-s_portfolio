@@ -106,7 +106,7 @@ const Projects = () => {
             networks (LSTM), and Light GBM for accurate RUL estimation. Analyzed
             and compared model performances to optimize predictive accuracy and
             reliability. Developed insights into tool maintenance scheduling and
-            operational efficiency through data-driven approaches.
+            operational efficiency through data-driven approaches
           </p>
         </div>
 
